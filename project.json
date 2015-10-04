@@ -1,0 +1,12 @@
+{
+	"title": "La Parfumeria",
+	"description": "E-commerce for a  perfume shop in Saint-Jérôme",
+	"version": 1.0,
+	"language": "PHP",
+	"tools": ["bower", "SASS"],
+	"developers": [
+		{ "name": "Ibrahim Hatoum", "email": "ibrahim.hatoum@gmail.com" }
+	],
+	"created": "2015-09-01",
+	"tld": ".com"
+}
